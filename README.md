@@ -14,7 +14,7 @@ Neural networks with complex-valued convolution and multi-head attention
   <img width="1939" height="843" alt="image" src="https://github.com/user-attachments/assets/e956fd21-533e-4791-8426-e5494bba3b05" />
 
 - complex-valued transformer
-  <img width="652" height="1823" alt="fig2_01" src="https://github.com/user-attachments/assets/990ced73-69a7-4d76-8360-6ba82d434c72" />
+  <img width="326" height="912" alt="fig2_01" src="https://github.com/user-attachments/assets/990ced73-69a7-4d76-8360-6ba82d434c72" />
 
 # References
 - https://github.com/muqiaoy/dl_signal
